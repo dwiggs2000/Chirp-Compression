@@ -1,0 +1,24 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char **argv);"
+
+[correlateLargeArray]
+Class="Function"
+Prototype="int correlateLargeArray(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[goButtonCall]
+Class="Function"
+Prototype="int goButtonCall(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[closeProgram]
+Class="Function"
+Prototype="int closeProgram(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[grapActive]
+Class="Function"
+Prototype="int grapActive(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[moveMarker]
+Class="Function"
+Prototype="int moveMarker(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
