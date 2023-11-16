@@ -1,0 +1,16 @@
+[radar]
+Class="Function"
+Prototype="int radar();"
+
+[goButtonCallTwo]
+Class="Function"
+Prototype="int goButtonCallTwo(int P, int ctr, int E, void *callBackData);"
+
+[transmitButtonCall]
+Class="Function"
+Prototype="int transmitButtonCall(int P, int ctr, int E, void *callBackData);"
+
+[filterButtonCall]
+Class="Function"
+Prototype="int filterButtonCall(int P, int ctr, int E, void *callBackData);"
+

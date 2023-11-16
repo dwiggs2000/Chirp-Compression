@@ -1,0 +1,12 @@
+[correlateLargeArray]
+Class="Function"
+Prototype="void correlateLargeArray(double *arrayOne, unsigned int sizeOfOne, double *arrayTwo, unsigned int sizeOfTwo, double *OutArray, unsigned int sizeOutArray);"
+
+[goButtonCall]
+Class="Function"
+Prototype="int goButtonCall(int P, int ctr, int E, void *callBackData, int eventData1, int eventData2);"
+
+[main]
+Class="Function"
+Prototype="int main(int argc, char **argv);"
+
