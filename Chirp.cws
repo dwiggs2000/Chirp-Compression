@@ -1,0 +1,260 @@
+[Workspace Header]
+Version = 1700
+Pathname = "/c/Users/WIG81101/OneDrive - Viavi Solutions Inc/Chirp/Chirp.cws"
+CVI Dir = "/c/program files (x86)/national instruments/cvi2017"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2017"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "Chirp.prj"
+Drag Bar Left = 297
+Window Top = 675
+Window Left = 2455
+Window Bottom = 1562
+Window Right = 3707
+Maximized = True
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win At Start = True
+Bring Up Err Win For Errors = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 9
+Window Confinement Region Enabled = True
+MainColumnWidth = 280
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+
+[Project Header 0001]
+Version = 1700
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+
+[File 0001]
+Path Line0001 = "/c/Users/Public/Documents/National Instruments/CVI2017/samples/internet/ftpclnt/"
+Path Line0002 = "ftpclnt.c"
+File Type = "CSource"
+Disk Date = 3770120985
+In Projects = ""
+Window Top = 33
+Window Left = 10
+Window Z-Order = 6
+Source Window State = "1,168,174,174,16,37,37,0,0,119,0,0,0,0,0,25,458,0,60,65,349,995,1,0,"
+
+[File 0002]
+Path = "/c/Users/WIG81101/OneDrive - Viavi Solutions Inc/Chirp/radar.h"
+File Type = "Include"
+Disk Date = 3770026664
+In Projects = "1,"
+Window Top = 33
+Window Left = 10
+Window Z-Order = 5
+Source Window State = "1,14,14,14,0,45,45,0,0,107,0,0,0,0,0,25,0,0,39,1,349,899,1,0,"
+
+[File 0003]
+Path = "/c/Users/WIG81101/OneDrive - Viavi Solutions Inc/Chirp/radar.uir"
+File Type = "User Interface Resource"
+Disk Date = 3770026664
+In Projects = "1,"
+Window Top = 95
+Window Left = 42
+Window Height = 349
+Window Width = 995
+Window Z-Order = 9
+
+[File 0004]
+Path = "/c/Users/WIG81101/OneDrive - Viavi Solutions Inc/Chirp/radar.c"
+File Type = "CSource"
+Disk Date = 3770309600
+In Projects = "1,"
+Window Top = 33
+Window Left = 10
+Window Z-Order = 1
+Source Window State = "1,151,151,151,32,46,46,0,0,278,0,562,0,562,0,87,96,0,144,22,349,603,1,0,"
+
+[File 0005]
+Path = "/c/Users/WIG81101/OneDrive - Viavi Solutions Inc/Chirp/filterCoefficients64k.h"
+File Type = "Include"
+Disk Date = 3769516099
+In Projects = "1,"
+Window Top = 64
+Window Left = 26
+Window Z-Order = 3
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,25,102,0,0,0,349,683,1,0,"
+
+[File 0006]
+Path Line0001 = "/c/Users/Public/Documents/National Instruments/CVI2017/samples/internet/ftpclnt/"
+Path Line0002 = "ftpclnt.h"
+File Type = "Include"
+Disk Date = 3770121970
+In Projects = ""
+Window Top = 33
+Window Left = 10
+Window Z-Order = 4
+Source Window State = "1,0,65,65,0,0,5,0,0,119,0,0,0,0,0,25,0,0,65,31,349,995,1,0,"
+
+[File 0007]
+Path = "/c/Users/WIG81101/OneDrive - Viavi Solutions Inc/Chirp/cmplxFilter.h"
+File Type = "Include"
+Disk Date = 3769181010
+In Projects = "1,"
+Window Top = 64
+Window Left = 26
+Window Z-Order = 2
+Source Window State = "1,0,0,0,0,0,0,0,0,119,0,0,0,0,0,25,0,0,0,0,349,995,1,0,"
+
+[File 0008]
+Path = "/c/Users/WIG81101/Downloads/filterTest.h"
+File Type = "Include"
+Disk Date = 3769180991
+In Projects = "1,"
+Window Top = 33
+Window Left = 10
+Window Z-Order = 7
+Source Window State = "1,0,0,0,0,0,0,0,0,119,0,0,0,0,0,25,0,0,0,0,349,995,1,0,"
+
+[File 0009]
+Path = "/c/Program Files (x86)/National Instruments/CVI2017/include/ansi/stdio.h"
+File Type = "Include"
+Disk Date = 3573608400
+In Projects = ""
+Window Top = 64
+Window Left = 26
+Window Z-Order = 8
+Source Window State = "1,165,165,165,15,20,20,0,3,119,0,0,0,0,0,25,122,0,165,15,349,995,1,0,"
+
+[File 0010]
+Path = "/c/Users/WIG81101/OneDrive - Viavi Solutions Inc/Chirp/filterCoefficients.h"
+File Type = "Include"
+Disk Date = 3769181008
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[Tab Order]
+Tab 0001 = "/c/Users/WIG81101/OneDrive - Viavi Solutions Inc/Chirp/radar.uir"
+Tab 0002 = "/c/Users/WIG81101/OneDrive - Viavi Solutions Inc/Chirp/filterCoefficients64k.h"
+Tab 0003 Line0001 = "/c/Users/Public/Documents/National Instruments/CVI2017/samples/internet/ftpclnt/"
+Tab 0003 Line0002 = "ftpclnt.h"
+Tab 0004 = "/c/Users/WIG81101/OneDrive - Viavi Solutions Inc/Chirp/radar.h"
+Tab 0005 = "/c/Users/WIG81101/OneDrive - Viavi Solutions Inc/Chirp/radar.c"
+Tab 0006 Line0001 = "/c/Users/Public/Documents/National Instruments/CVI2017/samples/internet/ftpclnt/"
+Tab 0006 Line0002 = "ftpclnt.c"
+Tab 0007 = "/c/Users/WIG81101/Downloads/filterTest.h"
+Tab 0008 = "/c/Users/WIG81101/OneDrive - Viavi Solutions Inc/Chirp/cmplxFilter.h"
+Tab 0009 = "/c/Program Files (x86)/National Instruments/CVI2017/include/ansi/stdio.h"
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Build Dependencies 0001]
+Number of Dependencies = 0
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+
+[Watch 1]
+Watch Expression = "PanelHandle"
+
+[Watch 2]
+Watch Expression = "PanelHandle"
+
+[Watch 3]
+Watch Expression = "PanelHandle"
+
+[Watch 4]
+Watch Expression = "analog"
+
